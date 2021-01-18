@@ -12,8 +12,8 @@ With a set of training audio files containing labelled examples of both classes,
 
 Yes  
 
-![Fire](imgages/yes.png)
+![Yes](images/yes.png)
 
 No
 
-![No fire](images/.png)
+![No](images/no.png)
