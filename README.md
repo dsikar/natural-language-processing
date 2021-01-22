@@ -6,7 +6,7 @@ In this workshop we will see the basic workflow for creating a model that, based
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab_jp_nb_link] 
  
-[colab_jp_nb_link]: https://colab.research.google.com/github/dsikar/natural-language-processing/blob/main/src/NaturalLanguageProcessing.ipynb
+[colab_jp_nb_link]: https://colab.research.google.com/github/dsikar/natural-language-processing/blob/master/NaturalLanguageProcessing.ipynb
 
 With a set of training audio files containing labelled examples of both classes, the network will *learn* how to distinguish (in this case) two classes.
 
